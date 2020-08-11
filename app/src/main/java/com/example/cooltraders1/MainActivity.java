@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         passwordEditText=findViewById(R.id.passwordEditText);
         loginButton=findViewById(R.id.loginButton);
 
+        String email=emailEditText.getText().toString();
 
 
     }
