@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_uploading"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_cloud_upload_24"
+        android:title="@string/text_label_1"/>
+    <item
+        android:id="@+id/action_downloading"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_cloud_download_24"
+        android:title="@string/text_label_2"/>
+    <item
+        android:id="@+id/action_setting"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_cloud_done_24"
+        android:title="@string/text_label_3"/>
+</menu>

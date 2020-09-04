@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707541688641",
+    "firebase_url": "https://taxinvoice-d16b9.firebaseio.com",
+    "project_id": "taxinvoice-d16b9",
+    "storage_bucket": "taxinvoice-d16b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707541688641:android:2964019e6d7cb461c201c0",
+        "android_client_info": {
+          "package_name": "com.example.taxinvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707541688641-hptaofthskgbbdhv6n57kgm18pri7ptt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6V_Nwz5o5mfGGwxtSDQ5PeA83ogBGuBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707541688641-hptaofthskgbbdhv6n57kgm18pri7ptt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
